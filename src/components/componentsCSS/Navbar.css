@@ -1,0 +1,13 @@
+.custom-link {
+  cursor: pointer;
+  padding: 15px;
+  margin: 0 15px;
+  color: #eeeeee;
+  transition: border-bottom 0.2s ease-in-out;
+  text-decoration: none;
+  font-weight: bold;
+}
+.custom-link:hover {
+  border-bottom: 5px #fd7014 solid;
+  border-radius: 0 0 5px 5px;
+}

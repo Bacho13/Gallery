@@ -1,0 +1,11 @@
+img {
+  width: 1000px;
+  height: 500px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 5px #393e46 solid;
+  margin: 10px 0;
+}
+img:hover {
+  border: 5px #fd7014 solid;
+}
