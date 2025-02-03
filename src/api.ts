@@ -1,5 +1,5 @@
 import axios from "axios";
-import { PhotoStatistics, ModalDataProps } from "./interfaces";
+import { PhotoStatistics } from "./interfaces";
 
 const API_URL = "https://api.unsplash.com/photos";
 const CLIENT_ID = "EKBnl38asOo8pePKLOKzsKQMVYKDmDpwM4ONhC3tt7s";
